@@ -1,15 +1,18 @@
-title: Tailwind Jekyll Starter Kit
-description: A starter kit for using Tailwind with Jekyll
+title: hexplorer
+description: Let's explore HEX. This website made with Tailwind and Jekyll.
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
 
 exclude:
   - Gemfile
   - Gemfile.lock
   - gulpfile.babel.js
-  - LICENSE.md
+  - LICENSE
   - node_modules
   - package.json
   - package-lock.json
   - README.md
   - src
   - tailwind.config.js
-  - netlify.toml
