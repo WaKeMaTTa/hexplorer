@@ -1,7 +1,7 @@
 {
-  "name": "jekyll-starter-tailwind",
-  "version": "6.0.0",
-  "description": "A starter kit for using Tailwind with Jekyll",
+  "name": "hexplorer",
+  "version": "0.0.1",
+  "description": "Let's explore HEX. This website made with Tailwind and Jekyll.",
   "main": "gulpfile.babel.js",
   "devDependencies": {
     "autoprefixer": "10.2.5",
@@ -29,12 +29,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/taylorbryant/jekyll-starter-tailwind.git"
+    "url": "https://github.com/WaKeMaTTa/hexplorer.git"
   },
-  "author": "Taylor Bryant",
+  "author": "Mohamed Ziata",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/taylorbryant/jekyll-starter-tailwind/issues"
+    "url": "https://github.com/WaKeMaTTa/hexplorer/issues"
   },
   "publishConfig": {
     "access": "public"
